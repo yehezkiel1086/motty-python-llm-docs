@@ -1,6 +1,8 @@
-# Langchain LLM Docs
+# Motty Python LLM Docs
 
-Docs about LLM implementations tools like LangChain
+Docs about Gemini LLM (and possibly LangChain) implementations to read meme stuffs about [Motty Python and the Holy Grail](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail).
+
+![The Knight who says Ni!](asset/35-Best-Monty-Python-Memes-That-Will-Make-You-Say-A-Blessing-From-The-Lord-FG.webp)
 
 ## Requirements
 
